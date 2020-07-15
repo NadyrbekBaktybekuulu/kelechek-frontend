@@ -1,4 +1,3 @@
 # Kelechek-Frontend Members
 1. Mirlan Urzhanov
-2. Isamidinov Aiat
-3. Test
+2. Aiat Isamidinov
