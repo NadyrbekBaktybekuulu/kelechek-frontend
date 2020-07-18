@@ -2,4 +2,5 @@
 1. Mirlan Urzhanov
 2. Aiat Isamidinov
 3. Aizirek Mairambek kyzy
-4. Begimai Akulova
+4. Nargiza Rysbek kyzy
+5. Begimai Akulova
