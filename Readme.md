@@ -4,3 +4,4 @@
 3. Aizirek Mairambek kyzy
 4. Nargiza Rysbek kyzy
 5. Begimai Akulova
+6. Baktybek uulu Nadyrbek
