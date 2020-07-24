@@ -1,4 +1,8 @@
 # Kelechek-Frontend Members
 1. Mirlan Urzhanov
-2. Isamidinov Aiat
-3. Baktybek uulu Nadyrbek
+2. Aiat Isamidinov
+3. Aizirek Mairambek kyzy
+4. Nargiza Rysbek kyzy
+5. Begimai Akulova
+6. Nadyrbek Baktybek uulu
+
