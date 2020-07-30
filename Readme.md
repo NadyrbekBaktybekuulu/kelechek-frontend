@@ -4,4 +4,5 @@
 3. Aizirek Mairambek kyzy
 4. Nargiza Rysbek kyzy
 5. Begimai Akulova
-6. Nurzat Zhamalbek kyzy
+6. Dinara Bakir kyzy
+7. Nurzat Zhamalbek kyzy
